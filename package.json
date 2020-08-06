@@ -1,0 +1,28 @@
+{
+  "name": "node-api1-project",
+  "version": "1.0.0",
+  "description": "- Building a RESTful API.\r - Performing CRUD operations.\r - Writing API endpoints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClydeFrog04/node-api1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClydeFrog04/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/ClydeFrog04/node-api1-project#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "express": "^4.17.1"
+  }
+}
